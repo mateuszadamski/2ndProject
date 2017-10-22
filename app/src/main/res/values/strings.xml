@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2ndProject</string>
+    <string name="button1">Send</string>
+    <string name="editText1">Insert text</string>
+</resources>
